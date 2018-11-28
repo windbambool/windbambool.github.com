@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的博客
 
-You can use the [editor on GitHub](https://github.com/windbambool/windbambool.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人经历
+- 2016.5 ~ 2017.6 在广州汇众益智游戏学院接受培训，专业：跨平台游戏开发
+>>主修课程：C/C++与C#,Unity3D游戏开发
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 2017.6 ~ 2018.6 工作于惠州市生益源科技发展有限公司，职位：U3D前端开发工程师 
+>>工作项目：移动端2D动作类游戏
 
-### Markdown
+- 2018.8 ~ 2018.11 工作于广州九天互娱网络科技有限公司，职位：H5游戏前端.
+>>工作项目：H5 RPG类游戏
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 职业特长
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/windbambool/windbambool.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
