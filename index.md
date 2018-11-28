@@ -10,7 +10,7 @@
 
 *****
 ### 职业特长
-1. 精通C/C++语言编程、C#语言编程。精通C++中的面向对象、指针、STL等知识与应用；
+1. 精通**C/C++**语言编程、C#语言编程。精通C++中的面向对象、指针、STL等知识与应用；
 2. 熟练使用Unity3D开发工具，熟练使用UI、GUI、NGUI、DF等UI操作；
 3. 熟练使用DOTween、Spine、EasyTouch等插件；
 4. 熟练使用LitJSON等插件，熟悉Xml、JSON文件的写入与解析；
@@ -19,3 +19,7 @@
 7. 能够编写Windows窗口程序，熟练使用OpenGL；
 8. 了解Lua、Shader、typeScript、html5;
 9. 熟悉Laya引擎，可以用LayaIDE制作简单的H5游戏并导出.
+10.**加粗**显示
+12.显示
+**加粗**
+显示
